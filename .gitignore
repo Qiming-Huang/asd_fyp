@@ -162,5 +162,5 @@ cython_debug/
 
 # self
 
-experiment/pths/*.pth
+experiment/pths
 try.py
