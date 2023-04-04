@@ -163,3 +163,4 @@ cython_debug/
 # self
 
 *.pth
+try.py
